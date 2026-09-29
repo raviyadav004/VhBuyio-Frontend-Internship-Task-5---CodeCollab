@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌟 CodeCollab — Collaborative Browser-Based Code Editor
 
 > A modern, frontend-only collaborative coding workspace built with React, TypeScript, Zustand, and Monaco Editor — featuring local project management, simulated collaboration, remote cursors and selections, offline editing, browser persistence, themes, command palette, quick file search, and a professional responsive IDE-style interface.
@@ -1092,6 +1091,3 @@ The result is a professional **frontend-only collaborative coding environment** 
 ---
 
 > ⭐ **CodeCollab — A frontend-only collaborative coding environment built to demonstrate modern React architecture, TypeScript, Monaco Editor integration, browser persistence, simulated collaboration, performance-conscious UI engineering, responsive design, and accessible user experience.**
-=======
-# VhBuyio-Frontend-Internship-Task-5
->>>>>>> 4b34ebd582b403f2516193547b709f787152db3b
